@@ -1,0 +1,11 @@
+{
+  "name": "integration-example-circleci-nodejs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "dotenv-vault-core": "^0.3.0"
+  }
+}
