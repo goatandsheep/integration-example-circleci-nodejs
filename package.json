@@ -6,6 +6,6 @@
     "build": "node index.js"
   },
   "dependencies": {
-    "dotenv-vault-core": "^0.3.0"
+    "dotenv": "^16.3.1"
   }
 }
